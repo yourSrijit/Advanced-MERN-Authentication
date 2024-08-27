@@ -12,15 +12,14 @@ const SignUpPage = () => {
 	const [password, setPassword] = useState("");
 	const navigate = useNavigate();
 
-	const { signup, error, isLoading } = useAuthStore();  
-
+	const { signup, error, isLoading } = useAuthStore();
 
 	const handleSignUp = async (e) => {
 		e.preventDefault();
 
 		try {
 			await signup(email, password, name);
-			navigate("/verify");
+			navigate("/verify-email");
 		} catch (error) {
 			console.log(error);
 		}
@@ -45,7 +44,6 @@ const SignUpPage = () => {
 						placeholder='Full Name'
 						value={name}
 						onChange={(e) => setName(e.target.value)}
-						
 					/>
 					<Input
 						icon={Mail}

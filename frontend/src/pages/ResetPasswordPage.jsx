@@ -16,12 +16,9 @@ const ResetPasswordPage = () => {
 
 	const handleSubmit = async (e) => {
 		e.preventDefault();
-		if(password.length <4){
-			toast.error("Password should be more than 4 character");
-			return;
-		}
+
 		if (password !== confirmPassword) {
-			toast.error("Passwords do not match");
+			alert("Passwords do not match");
 			return;
 		}
 		try {
