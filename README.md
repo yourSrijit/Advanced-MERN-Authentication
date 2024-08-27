@@ -1,9 +1,18 @@
 <h1 align="center">Advanced Auth Tutorial 🔒 </h1>
 
 [Live App](https://advanced-auth-system.onrender.com/)
+
 [Mailtrap | Used in this Project](https://mailtrap.io/home)
 
 ---
+![Untitled-2024-08-19-2139](https://github.com/user-attachments/assets/4fd4277d-0441-475a-bfcd-cab976b60e7f)
+
+![ezgif-2-27a1ca7f9d](https://github.com/user-attachments/assets/8874c4c2-6fb1-4ab7-953b-bf3d9b1da952)
+![ezgif-2-59caad1309](https://github.com/user-attachments/assets/eff71f13-47f7-4154-8178-b9084bf174c4)
+
+
+
+
 
 ### About This Project:
 I created an advanced mail authentication system using the MERN stack, leveraging MongoDB for the database and JWT for secure authentication. The system integrates Mailtrap for email services, enabling features like password recovery, OTP verification, and email validation. Key functionalities include signup, login, logout, and password reset endpoints. The frontend is designed with a user-friendly interface for signup, login, email verification, and a protected dashboard. This project emphasizes security and user experience, providing robust email authentication and account management features.
