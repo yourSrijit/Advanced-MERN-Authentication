@@ -18,7 +18,11 @@ const ResetPasswordPage = () => {
 		e.preventDefault();
 
 		if (password !== confirmPassword) {
-			alert("Passwords do not match");
+			toast.error("Passwords do not match");
+			return;
+		} 
+		if(password.length <4 ){
+			toast.error("The password length must be more than 4 characters");
 			return;
 		}
 		try {
