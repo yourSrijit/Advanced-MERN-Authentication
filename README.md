@@ -1,6 +1,7 @@
 <h1 align="center">Advanced Auth Tutorial 🔒 </h1>
 
 [Live App](https://advanced-auth-system.onrender.com/)
+[Mailtrap | Used in this Project](https://mailtrap.io/home)
 
 ---
 
