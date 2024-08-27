@@ -1,34 +1,12 @@
 <h1 align="center">Advanced Auth Tutorial 🔒 </h1>
 
-![Demo App](/frontend/public/screenshot-for-readme.png)
+[Live App](https://advanced-auth-system.onrender.com/)
 
-[Video Tutorial on Youtube](https://youtu.be/pmvEgZC55Cg)
+---
 
-About This Course:
+### About This Project:
+I created an advanced mail authentication system using the MERN stack, leveraging MongoDB for the database and JWT for secure authentication. The system integrates Mailtrap for email services, enabling features like password recovery, OTP verification, and email validation. Key functionalities include signup, login, logout, and password reset endpoints. The frontend is designed with a user-friendly interface for signup, login, email verification, and a protected dashboard. This project emphasizes security and user experience, providing robust email authentication and account management features.
 
--   🔧 Backend Setup
--   🗄️ Database Setup
--   🔐 Signup Endpoint
--   📧 Sending Verify Account Email
--   🔍 Verify Email Endpoint
--   📄 Building a Welcome Email Template
--   🚪 Logout Endpoint
--   🔑 Login Endpoint
--   🔄 Forgot Password Endpoint
--   🔁 Reset Password Endpoint
--   ✔️ Check Auth Endpoint
--   🌐 Frontend Setup
--   📋 Signup Page UI
--   🔓 Login Page UI
--   ✅ Email Verification Page UI
--   📤 Implementing Signup
--   📧 Implementing Email Verification
--   🔒 Protecting Our Routes
--   🔑 Implementing Login
--   🏠 Dashboard Page
--   🔄 Implementing Forgot Password
--   🚀 Super Detailed Deployment
--   ✅ This is a lot of work. Support my work by subscribing to the [Channel](https://www.youtube.com/@asaprogrammer_)
 
 ### Setup .env file
 
@@ -43,9 +21,16 @@ MAILTRAP_ENDPOINT=https://send.api.mailtrap.io/
 
 CLIENT_URL= http://localhost:5173
 ```
+---
 
-### Run this app locally
+## Follow to Run this app locally
 
+### Clone the app
+```shell
+git clone https://github.com/yourSrijit/Advanced-MERN-Authentication.git
+cd Advanced-MERN-Authentication
+```
+### Build the app
 ```shell
 npm run build
 ```
@@ -56,4 +41,4 @@ npm run build
 npm run start
 ```
 
-### I'll see you in the next one! 🚀
+[Connect With Me](https://www.linkedin.com/in/yoursrijit/) 🚀
