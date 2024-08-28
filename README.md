@@ -1,4 +1,4 @@
-<h1 align="center">Advanced Auth Tutorial 🔒 </h1>
+<h1 align="center">Advanced Auth System 🔒 </h1>
 
 [Live App](https://advanced-auth-system.onrender.com/)
 
@@ -7,8 +7,8 @@
 ---
 ![Untitled-2024-08-19-2139](https://github.com/user-attachments/assets/4fd4277d-0441-475a-bfcd-cab976b60e7f)
 
-![ezgif-2-27a1ca7f9d](https://github.com/user-attachments/assets/8874c4c2-6fb1-4ab7-953b-bf3d9b1da952)
-![ezgif-2-59caad1309](https://github.com/user-attachments/assets/eff71f13-47f7-4154-8178-b9084bf174c4)
+![ezgif-3-d40924d6e0](https://github.com/user-attachments/assets/f9845e28-e6c5-4822-8ac9-1975f5f5a4a5)
+
 
 
 
